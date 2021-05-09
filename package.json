@@ -9,7 +9,7 @@
   "author": "Pownthep Laokhunthot",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "bcryptjs": "*",
     "body-parser": "^1.18.3",
     "connect-flash": "*",
